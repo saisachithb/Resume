@@ -1,3 +1,2 @@
 # About Me
-I’m Sai Sachith Buddarapu , a creative problem solver who enjoys turning ideas into practical solutions. With skills in data science, programming, and web development, I build applications that are both functional and thoughtful.
-I bring a blend of logic and creativity to every project, along with strong storytelling and organizational abilities. I’m always looking to learn, grow, and build things that make a real difference.
+I’m Sai Sachith Buddarapu, a design-minded developer who enjoys turning ideas into useful, user-friendly solutions. With skills in data science, programming, and web development, I build applications that are both functional and carefully crafted. I combine logic, creativity, and clear storytelling to solve problems and bring projects to life. I’m always learning, improving, and building things that create real value.
